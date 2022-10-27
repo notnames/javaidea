@@ -8,7 +8,7 @@ public class RandomDemo1 {
         int data = r.nextInt(10);
 
         for (int i = 0; i < 10; i++) {
-            int
+
         }
         System.out.println(data);
     }
